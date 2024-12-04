@@ -7,7 +7,7 @@
 <p align="center"> 
     <a href="https://twitter.com/0x00S30"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=0x00S30&url=https%3A%2F%2Ftwitter.com%2F0x00S30"></a>
     <a href="https://www.linkedin.com/in/siva-guru-k-a30484238" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Siva%20Guru%20K-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/Sam-Sepiol-26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Sam-Sepiol-26-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/Sam-Sepiol-26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Sam%20Sepiol%2026-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p> 
 <h3 align="center"> 
 (In)Security Researcher
